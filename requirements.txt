@@ -1,0 +1,13 @@
+mechanize
+requests
+pyfiglet
+youtube_dl
+uuid
+colorama
+beautifulsoup4
+pafy
+bs4
+cfonts
+argparse
+InstagramAPI
+generate_user_agent
